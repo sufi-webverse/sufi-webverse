@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I'm currently working as a web full-stack developer
+- I'm also a solution architect for a startup in India
+- I'm currently learning systems design and architecting web applications
+- I'm looikng to collaborate with teams trying to transform their apps in terms of technology stack
+- I'm looking for help with experienced team
+- Ask me about web technologies
+- How to reach me- email -- sufiyanbudye7@gmail.com
