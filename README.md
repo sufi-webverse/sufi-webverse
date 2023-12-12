@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sufi-webverse&label=Profilvisninger&color=0e75b6&style=flat" alt="sufi-webverse" /> </p>
 
-<p align="left"> <a href="https://github.com/sufi-webverse/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sufi-webverse" alt="sufi-webverse" /></a> </p>
+<p align="left"> <a href="https://github.com/sufi-webverse/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sufi-webverse&row=1&column=6 alt="sufi-webverse" /></a> </p>
